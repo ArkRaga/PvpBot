@@ -1,0 +1,26 @@
+{
+
+  "TEST": "OHhai",
+  "Welcome_&Name":
+   "hello {0}. my name is **ArenaMaster**. I Handle ~EVERYTHING~ battle related
+	If you would like to start playing please type **$startpvp**
+	If youd like a list of my commands type **$commands**",
+  "Duel": "{0} Has challenged {1} to a Duel!  \n Are you brave or a Chicken!?\n **[$Accept] [$Deny]**",
+  "DuelAccept":"**Ding Ding Ding**\n Its _**{0}**_ Vs _**{1}**_! \n *Yeet or be Yeeted!* ",
+  "Secret": "secret is `bootybutt`!",
+  "Stats": " Name: {0}\n class: {1}\n BattlePoints: {2}\n Level: {3} ",
+  "Commands": 
+  "**Duel**- Duel a player. 
+  **ClassList**- A full List of Classes.  
+  **Mystats**- Shows your player stats. 
+  **Quitpvp**- Removes you from the game.
+  **Accept**- Allows you to accept a duel request. 
+  **Deny**- Allows you to deny a duel request.
+  **StartCombat**- Starts combat with a random monster.
+  **Startpvp**- Allows you to start the game.
+  ",
+  "HowToPlay":"This is a game bot, you have a character that you can level up via pvp or pve.
+  type in the commands to use them you can type in **$commands** for a list of them.
+  you can duel any player currently playing. While in combat you will need to type an action to preform.
+  $attack $defend."
+}

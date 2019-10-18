@@ -1,0 +1,291 @@
+[
+
+  {
+    "name": "DarkKnight",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Sinner",
+    "attack": 5,
+    "defense": 1,
+    "speed": 1,
+    "isLocked": false
+  },
+  {
+    "name": "Demon",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "TheFallen",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Virtuous",
+    "attack": 1,
+    "defense": 4,
+    "speed": 2,
+    "isLocked": false
+  },
+  {
+    "name": "Angel",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Seraphim",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Fighter",
+    "attack": 3,
+    "defense": 2,
+    "speed": 2,
+    "isLocked": false
+  },
+  {
+    "name": "MartialArtist",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Monk",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Squire",
+    "attack": 4,
+    "defense": 3,
+    "speed": 0,
+    "isLocked": false
+  },
+  {
+    "name": "Knight",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Crusader",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "BattleMage",
+    "attack": 2,
+    "defense": 0,
+    "speed": 5,
+    "isLocked": false
+  },
+  {
+    "name": "Paladin",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Sentinal",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Healer",
+    "attack": 2,
+    "defense": 2,
+    "speed": 3,
+    "isLocked": false
+  },
+  {
+    "name": "Priest",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "ArchBishop",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Rogue",
+    "attack": 1,
+    "defense": 1,
+    "speed": 5,
+    "isLocked": false
+  },
+  {
+    "name": "Ninja",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Assassin",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Unicorn",
+    "attack": 3,
+    "defense": 1,
+    "speed": 3,
+    "isLocked": false
+  },
+  {
+    "name": "Newt",
+    "attack": 1,
+    "defense": 4,
+    "speed": 2,
+    "isLocked": false
+  },
+  {
+    "name": "FlatTail",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Dragon",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Zombie",
+    "attack": 5,
+    "defense": 2,
+    "speed": 0,
+    "isLocked": false
+  },
+  {
+    "name": "Undead",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Immortal",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Nyph",
+    "attack": 3,
+    "defense": 0,
+    "speed": 4,
+    "isLocked": false
+  },
+  {
+    "name": "Mermaid",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Suren",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Drudge",
+    "attack": 3,
+    "defense": 1,
+    "speed": 3,
+    "isLocked": false
+  },
+  {
+    "name": "Vampire",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Count",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Carnivore",
+    "attack": 4,
+    "defense": 0,
+    "speed": 3,
+    "isLocked": false
+  },
+  {
+    "name": "Warewolf",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Alpha Lycan",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Conqueror",
+    "attack": 3,
+    "defense": 3,
+    "speed": 2,
+    "isLocked": true
+  },
+  {
+    "name": "Barbian",
+    "attack": 0,
+    "defense": 0,
+    "speed": 0,
+    "isLocked": true
+  },
+  {
+    "name": "Warrior",
+    "attack": 2,
+    "defense": 2,
+    "speed": 1,
+    "isLocked": false
+  }
+
+]
