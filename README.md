@@ -1,5 +1,5 @@
 # PvpBot
-killl your discord friends
+kill your discord friends
 
 
 # Config
@@ -8,7 +8,7 @@ In order to run the bot, you'll need to add your token and prefix to a config fi
 - Create a file called "config.json" and place it in the Resources folder
 - Add the following:
 
-```js
+```json
 {
   "token": "<your discord bot token goes here>",
   "cmdPrefix": "!"
